@@ -50,6 +50,3 @@ This project demonstrates strong skills in data cleaning, querying, analysis, an
 - Highlighted high-revenue product categories  
 - Provided actionable insights for targeted marketing  
 
----
-
-## 📂 Project Structure
